@@ -1,1 +1,1 @@
-# bootcamp-homework2
+# 02 CSS and Bootstrap: Responsive Portfolio
