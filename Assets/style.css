@@ -5,6 +5,10 @@ body{
     font-family: 'Karla', sans-serif;
 }
 
+.container{
+    background-color: honeydew;
+}
+
 footer{
     text-align: center;
     background-color: gray;
