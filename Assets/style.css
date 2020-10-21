@@ -1,0 +1,14 @@
+/*Style for all html files*/
+
+body{
+    background-image: url("../Assets/Images/gplaypattern_@2X.png");
+}
+
+
+
+footer{
+    text-align: center;
+    background-color: gray;
+    color: honeydew;
+    vertical-align: bottom;   
+}
