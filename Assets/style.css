@@ -5,6 +5,10 @@ body{
     font-family: 'Karla', sans-serif;
 }
 
+.navbar-brand{
+    background-color: darkkhaki;
+}
+
 .container-fluid{
     padding-left: 10%;
 }
@@ -33,10 +37,13 @@ p{
 footer{
     text-align: center;
     background-color: gray;
-    color: honeydew;
     position: fixed;
     width: 100%;
     left: 0;
     bottom: 0;
+}
+
+.footerText{
+    color: lightblue;
 }
 
