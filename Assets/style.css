@@ -21,17 +21,17 @@ p{
     color: darkslateblue;
 }
 
-.col-sm-5{
+.col-sm-5, #portfolioColumn{
     background-color: honeydew;
 }
 
-#aboutMepic{
+#aboutMepic , img{
     border: 1px solid #ddd;
     border-radius: 4px;
     padding: 5px;
     width: 150px;
-    float: left;
     margin-right: 15px;
+    float: left;
 }
 
 footer{
