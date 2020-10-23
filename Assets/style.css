@@ -5,8 +5,19 @@ body{
     font-family: 'Karla', sans-serif;
 }
 
-.container{
+.container-fluid{
+    padding-left: 10%;
+}
+.col-sm-5{
     background-color: honeydew;
+}
+
+#aboutMepic{
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 150px;
+    float: left;
 }
 
 footer{
@@ -18,3 +29,4 @@ footer{
     left: 0;
     bottom: 0;
 }
+
