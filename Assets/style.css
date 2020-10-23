@@ -8,6 +8,15 @@ body{
 .container-fluid{
     padding-left: 10%;
 }
+
+h2{
+    color:darkkhaki;
+}
+
+p{
+    color: darkslateblue;
+}
+
 .col-sm-5{
     background-color: honeydew;
 }
