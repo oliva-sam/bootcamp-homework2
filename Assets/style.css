@@ -21,7 +21,7 @@ p{
     color: darkslateblue;
 }
 
-.col-sm-5, #portfolioColumn{
+.col-sm-5, #portfolioBox, #contactMeBox{
     background-color: honeydew;
     border-style: solid;
     border-color: gray;
