@@ -36,6 +36,13 @@ p{
     float: left;
 }
 
+#fcf-button{
+    background-color:darkkhaki;
+    font-size: 1rem;
+    line-height: 1.5;
+    border-radius: 0.25rem;
+}
+
 footer{
     text-align: center;
     background-color: gray;
