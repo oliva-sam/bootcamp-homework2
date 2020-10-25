@@ -23,6 +23,8 @@ p{
 
 .col-sm-5, #portfolioColumn{
     background-color: honeydew;
+    border-style: solid;
+    border-color: gray;
 }
 
 #aboutMepic , img{
